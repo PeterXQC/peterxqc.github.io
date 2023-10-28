@@ -1,0 +1,44 @@
+I"+<!-- _pages/publications.md -->
+<div class="publications">
+
+<h2 class="bibliography">2023</h2>
+<ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="xu2023posteriori" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">A posteriori error bounds for the block-Lanczos method for matrix function approximation</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Qichen Xu</em>,&nbsp;and&nbsp;Tyler Chen</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          2023
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-arxiv-id="2211.15643"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+</div>
+:ET

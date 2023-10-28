@@ -8,5 +8,6 @@ category: work
 related_publications:
 ---
 
-<iframe src="https://web-production-7138.up.railway.app/voila/render/cobweb.ipynb?" width="100%" height="500px"></iframe>
+<iframe src="https://your-voila-notebook-link" width="100%" height="700" frameborder="0"></iframe>
+
 
