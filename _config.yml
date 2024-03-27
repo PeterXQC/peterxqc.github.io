@@ -7,8 +7,6 @@ first_name: Qichen Xu
 middle_name: 
 last_name: (徐奇琛)
 email: qichenxu@uchicago.edu
-
-"Wechat: \"Qichenxu0\" + x, where 0 < x < 1000, with factors 2, 4, and 181"
 description: 
 footer_text: 
 keywords: Qichen Xu, Peter Xu  # add your own keywords or leave empty
@@ -18,7 +16,7 @@ icon: ♌  # the emoji used as the favicon (alternatively, provide image name in
 
 url: https://peterxqc.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -104,7 +102,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
-contact_note:
+contact_note: "Wechat: \"Qichenxu0\" + x, where 0 < x < 1000, with factors 2, 4, and 181"
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
