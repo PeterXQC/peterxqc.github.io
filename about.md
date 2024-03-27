@@ -16,7 +16,7 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. student at The University of Chicago. Prior to this, I obtained my Bachelor's degree in Mathematics and Applied Mathematics from the [University of Washington](https://www.washington.edu/), graduating Cum Laude with honors. While I am still in the process of defining the direction of my research, I am intrigued by the potential of leveraging machine learning to address challenging mathematical problems that prove difficult through traditional methodologies. 
