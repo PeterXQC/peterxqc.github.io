@@ -4,7 +4,7 @@ title: My favorite quotes
 description: 
 # img: assets/img/12.jpg
 importance: 1
-category: work
+category: 
 related_publications:
 ---
 
