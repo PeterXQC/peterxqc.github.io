@@ -2,7 +2,7 @@
 layout: page
 title: My favorite quotes
 description: 
-# img: assets/img/12.jpg
+img: assets/img/eclipse.jpg
 importance: 1
 category: 
 related_publications:
