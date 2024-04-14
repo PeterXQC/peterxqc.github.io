@@ -9,4 +9,4 @@ display_categories:
 horizontal: false
 ---
 
-"Machine Learning didn't take over the world by forcing optimality" -- Nick Trefethen, 2024
+"Machine Learning didn't take over the world by forcing optimality." -- Nick Trefethen, 2024
