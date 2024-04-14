@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quotes
-permalink: /projects/quotes.md
+permalink: 
 description:
 nav: true
 nav_order: 2
