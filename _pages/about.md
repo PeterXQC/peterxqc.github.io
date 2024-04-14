@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 title: About
 permalink: /
 subtitle: <a href='https://cam.uchicago.edu/'>CAM, The University of Chicago</a>.

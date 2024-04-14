@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/quotes.md
 description:
 nav: false
-nav_order: 2
+nav_order: 3
 display_categories: 
 horizontal: false
 ---
