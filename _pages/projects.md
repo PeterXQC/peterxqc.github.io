@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: Projects
+permalink: /projects/quotes.md
 description:
-nav: true
+nav: false
 nav_order: 2
 display_categories: 
 horizontal: false
