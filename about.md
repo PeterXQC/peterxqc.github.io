@@ -18,10 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at The University of Chicago. Prior to this, I obtained my Bachelor's degree in Mathematics and Applied Mathematics from the [University of Washington](https://www.washington.edu/), graduating Cum Laude with honors. While I am still in the process of defining the direction of my research, I am intrigued by the potential of leveraging machine learning to address challenging mathematical problems that prove difficult through traditional methodologies. 
+I’m a Ph.D. student at the [University of Chicago](https://www.uchicago.edu/en), working in the [Doiron Lab](https://brainmath.bsd.uchicago.edu/) on neural plasticity and hysteresis. Before that, I earned my B.S. in Mathematics and Applied Mathematics from the [University of Washington](https://www.washington.edu/), graduating cum laude with honors.
 
-My past work has encompassed data-driven modeling of dynamical systems, numerical analysis, and computer vision. I've had the privilege and honor of collaborating with esteemed faculties from institutions such as [University of Washington](https://www.washington.edu/), [New York University](https://www.nyu.edu/), and [Tsinghua University](https://www.tsinghua.edu.cn/en/). 
+My research background spans data-driven modeling of dynamical systems, numerical analysis, and computer vision. I’ve collaborated with faculty from institutions including [New York University](https://www.nyu.edu/) [Tsinghua University](https://www.tsinghua.edu.cn/en/), and my alma mater, the [University of Washington](https://www.washington.edu/).
 
-My passion for computers extends from hardware to software. In hardware, I'm intrigued by the evolution and advancements of computer technology. On the software front, I'm adept at using programming to resolve challenges I encounter in both my academic and personal life. My expertise lies in Python, though I also have professional experience with Java, C++, Matlab, and Julia. Additionally, I regularly employ tools like bash, shell, and Docker to enhance my workflow efficiency.
+Outside of academia, I enjoy strength training, hiking, and occasionally getting too serious about badminton. I’m fluent in English and Mandarin—feel free to reach out in either.
 
-When I'm not diving deep into academics or nerdy stuff, you'll find me working out, taking a hike, or getting competitive in a game of badminton. I'm comfortable chatting in both English and Mandarin, so feel free to contact me in whichever language you prefer.
