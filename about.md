@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cam.uchicago.edu/'>CAM, The University of Chicago</a>.
+subtitle: <a href='https://cam.uchicago.edu/'>Computational and Applied Mathematics, The University of Chicago</a>.
 
 profile:
   align: right
