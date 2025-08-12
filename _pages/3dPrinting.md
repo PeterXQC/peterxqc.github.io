@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3d printing
+title: 3D Printing
 permalink: /3dprinting/
 description:
 nav: true
