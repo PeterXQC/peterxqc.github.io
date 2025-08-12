@@ -419,7 +419,3 @@ jsonresume:
   - languages
   - interests
   - references
-
-navbar_links:
-  - title: "3D Printing"
-    url: "/3dprinting/"

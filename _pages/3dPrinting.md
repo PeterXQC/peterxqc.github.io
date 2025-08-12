@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 3d printing
-permalink: https://peterxqc.github.io/3dprinting/
+permalink: /3dprinting/
 description:
 nav: true
 nav_order: 2
