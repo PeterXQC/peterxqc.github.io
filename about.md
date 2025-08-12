@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://cam.uchicago.edu/'>Computational and Applied Mathematics, The University of Chicago</a>.
 

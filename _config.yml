@@ -419,3 +419,7 @@ jsonresume:
   - languages
   - interests
   - references
+
+navbar_links:
+  - title: "3D Printing"
+    url: "https://peterxqc.github.io/3dprinting/"
